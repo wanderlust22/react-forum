@@ -12,9 +12,10 @@
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-hot-loader": "^3.0.0-beta.7",
+    "react-router-dom": "^5.1.2",
     "styled-jsx": "^3.2.4",
     "webpack": "^3.4.0",
-    "webpack-dev-server": "^2.5.0"
+    "webpack-dev-server": "^2.11.5"
   },
   "devDependencies": {
     "eslint": "^4.13.1",
